@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="klm">KLM Havayolları</string>
+    <string name="welcome">Hoşgeldiniz</string>
+    <string name="baggage">Bagaj</string>
+    <string name="departure">Gidiş</string>
+    <string name="flightInfo">Uçuş bilgisi</string>
+    <string name="logOut">Oturumu kapat</string>
+    <string name="baggageLost">Kayıp bagaj</string>
+    <string name="upgrade">Güncelleme</string>
+    <string name="directions">Yönler</string>
+    <string name="returnMainMenu">Ana menüye dön</string>
+    <string name="timeAndPlace">Yer ve zaman</string>
+    <string name="transit">Transit</string>
+    <string name="flightDisruptions">Uçuş aksaması</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="klm">केएलएम एयरलाइंस</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="baggage">सामान</string>
+    <string name="departure">प्रस्थान</string>
+    <string name="flightInfo">उड़ान की जानकारी</string>
+    <string name="logOut">बंद करना</string>
+    <string name="baggageLost">खोया सामान</string>
+    <string name="upgrade">उन्नयन</string>
+    <string name="directions">दिशाओं</string>
+    <string name="returnMainMenu">मुख्य मेनू में वापस</string>
+    <string name="timeAndPlace">समय और स्थान</string>
+    <string name="transit">परिवर्तन</string>
+    <string name="flightDisruptions">उड़ान अवरोधों</string>
+</resources>

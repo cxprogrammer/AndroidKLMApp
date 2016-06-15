@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="klm">KLM Aerolíneas</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="baggage">...</string>
+    <string name="departure">...</string>
+    <string name="flightInfo">...</string>
+    <string name="logOut">Cerrar sesión</string>
+    <string name="baggageLost">Baggage lost</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="directions">Directions</string>
+    <string name="returnMainMenu">Return to main menu</string>
+    <string name="timeAndPlace">Time and place</string>
+    <string name="transit">Transit</string>
+    <string name="flightDisruptions">Flight disruptions</string>
+</resources>

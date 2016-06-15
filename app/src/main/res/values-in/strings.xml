@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="klm">KLM Maskapai penerbangan</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="baggage">Bagasi</string>
+    <string name="departure">Keberangkatan</string>
+    <string name="flightInfo">Informasi Penerbangan</string>
+    <string name="logOut">Keluar</string>
+    <string name="baggageLost">Kehilangan Bagasi</string>
+    <string name="upgrade">Naik Kelas</string>
+    <string name="directions">Petunjuk Arah</string>
+    <string name="returnMainMenu">Kembali ke menu utama</string>
+    <string name="timeAndPlace">Waktu dan Tempat</string>
+    <string name="transit">Transit</string>
+    <string name="flightDisruptions">Gangguan Penerbangan</string>
+</resources>

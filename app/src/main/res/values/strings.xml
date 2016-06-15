@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KLM Application</string>
+    <string name="klm">KLM Airlines</string>
+    <string name="welcome">Welcome</string>
+    <string name="baggage">Baggage</string>
+    <string name="departure">Departure</string>
+    <string name="flightInfo">Flight information</string>
+    <string name="baggageLost">Lost baggage</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="directions">Directions</string>
+    <string name="returnMainMenu">Return to main menu</string>
+    <string name="timeAndPlace">Time and place</string>
+    <string name="flightDisruptions">Flight disruptions</string>
+    <string name="transit">Transit</string>
+    <string name="logOut">Log out</string>
+</resources>
